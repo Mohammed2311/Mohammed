@@ -1,0 +1,20 @@
+.bookmark{
+    background-color: #EEEEEE;
+}
+.sites-palce{
+    background-color: #EEEEEE;
+    display: flex;
+    flex-direction: column;
+}
+.sites-palce1{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.mm{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 20px;
+}
